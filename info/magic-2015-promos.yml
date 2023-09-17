@@ -1,0 +1,16 @@
+---
+object: set
+id: b263197c-a306-4795-937f-32fabc532d9e
+code: pm15
+name: Magic 2015 Promos
+uri: https://api.scryfall.com/sets/b263197c-a306-4795-937f-32fabc532d9e
+scryfall_uri: https://scryfall.com/sets/pm15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apm15&unique=prints
+released_at: '2014-07-17'
+set_type: promo
+card_count: 13
+parent_set_code: m15
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m15.svg?1694404800
